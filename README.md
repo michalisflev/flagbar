@@ -10,7 +10,7 @@ A tiny macOS menu bar app that shows a flag for your current keyboard language (
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/FlagBar.git
+git clone https://github.com/michalisflev/FlagBar.git
 cd FlagBar
 chmod +x build.sh && ./build.sh
 mv FlagBar.app /Applications/
